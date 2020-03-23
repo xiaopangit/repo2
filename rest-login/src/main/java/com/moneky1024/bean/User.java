@@ -12,7 +12,9 @@ public class User {
    @DateTimeFormat(pattern = "yyyy-MM-dd")
     private LocalDate birthday;
 
-
+	public void test(){
+	int a = 10;
+	}
 
 
    public User(){
