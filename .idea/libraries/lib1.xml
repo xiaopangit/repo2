@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/spring-expression-5.0.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/spring-aop-5.0.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/jackson-databind-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/jackson-annotations-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/spring-context-5.0.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/jackson-core-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/spring-beans-5.0.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/jackson-datatype-jsr310-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/spring-core-5.0.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/spring-jcl-5.0.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/fastjson-1.2.46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/jackson-module-parameter-names-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/spring-web-5.0.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/spring-webmvc-5.0.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rest-login/target/rest-login/WEB-INF/lib/jackson-datatype-jdk8-2.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
